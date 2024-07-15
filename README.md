@@ -23,7 +23,7 @@ I occasionally write about my experiences and thoughts on Computer Science. Chec
 - [Leetcode Solutions](https://leetcode.com/u/nonox530/)
 - [Medium Post](https://)
 
-## Projects & Repositorie
+## Repositories
 ### learn-unity-project
 Some small projects I made to learn Unity.
 ### NeverLate
